@@ -9,7 +9,6 @@ I'm a systems engineer with passion for programming and development in general! 
 * 🌍  I'm based in Barinas, Venezuela
 * 🖥️  See my portfolio at [my portfolio](http://sergiojoz-portfolio.vercel.app/)
 * ✉️  You can contact me at [sergio2jo13@gmail.com](mailto:sergio2jo13@gmail.com)
-* 🚀  I'm currently working on [Pesca y Gana](http://www.pescaygana.com/)
 * 🧠  I'm currently learning Nest.js, .NET
 * 👥  I'm looking to collaborate on all kind of projects!
 
