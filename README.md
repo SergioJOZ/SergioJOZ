@@ -7,7 +7,6 @@ Systems Engineer / Full Stack Developer
 I'm a systems engineer with passion for programming and development in general! I'm specialized in web development, using technologies like Next.js, Supabase, TanStack, PostgreSQL, MongoDB, and many more.
 
 * 🌍  I'm based in Barquisimeto, Venezuela
-* 🖥️  See my portfolio at [my portfolio](http://sergiojoz-portfolio.vercel.app/)
 * ✉️  You can contact me at [sergio2jo13@gmail.com](mailto:sergio2jo13@gmail.com)
 * 🧠  I'm currently learning Nest.js, .NET
 * 👥  I'm looking to collaborate on all kind of projects!
